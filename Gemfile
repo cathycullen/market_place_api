@@ -26,6 +26,10 @@ gem 'jquery-rails'
 #Api gems
 gem 'active_model_serializers'
 
+gem 'pry-rails'
+gem 'pry-doc'
+gem 'pry-nav'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
