@@ -29,6 +29,8 @@ gem 'active_model_serializers'
 gem 'pry-rails'
 gem 'pry-doc'
 gem 'pry-nav'
+gem 'factory_girl_rails'
+gem 'faker'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
